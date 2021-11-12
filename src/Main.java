@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         char inpOperator;
-        char calculate;
+
         Double number1,number2,result;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Choose an operator: +, -, *, or /");
